@@ -1,6 +1,6 @@
 # Monkeytype Autotyper
 
-This is a Python program that simulates typing on the website monkeytype.com. It uses Selenium WebDriver for browser automation and PyQt5 for the GUI. The program allows you to adjust the typing speed, the chance of making a mistake, and the delay between words.
+This is a Python program that simulates typing on the website monkeytype.com. It uses Selenium WebDriver for browser automation and PyQt5 for the GUI. The program allows you to adjust the typing speed, the chance of making a mistake, and the delay between words. The program is purely for education purpose to study that how python interacts with the browser and automate the process.
 
 ## Features
 
