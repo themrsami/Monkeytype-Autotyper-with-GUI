@@ -38,6 +38,17 @@ pip install -r requirements.txt
 python Monkeytype_Autotyper.py
 ```
 
+![image](https://github.com/themrsami/Monkeytype-Autotyper-with-GUI/assets/91170768/0c4ad252-71d6-4c9a-8de6-033dd7ccd983)
+
+![image](https://github.com/themrsami/Monkeytype-Autotyper-with-GUI/assets/91170768/0ae4da90-5fa1-4df7-be71-fbfc73813d61)
+
+![image](https://github.com/themrsami/Monkeytype-Autotyper-with-GUI/assets/91170768/f2025267-609e-4c84-abe2-554e4174a077)
+
+
+
+
+
+
 ## Troubleshooting
 
 If the script is not working, make sure you have the latest version of ChromeDriver installed and it’s in your PATH. You can download it from the ChromeDriver website. Make sure to choose the version that matches your installed version of Chrome.
