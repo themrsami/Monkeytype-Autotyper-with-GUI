@@ -20,7 +20,7 @@ This is a Python program that simulates typing on the website monkeytype.com. It
 
 - Python 3
 - Selenium WebDriver
-- PyQt5
+- PySide6
 - keyboard
 
 ## Installation
@@ -38,12 +38,11 @@ pip install -r requirements.txt
 python Monkeytype_Autotyper.py
 ```
 
-![image](https://github.com/themrsami/Monkeytype-Autotyper-with-GUI/assets/91170768/0c4ad252-71d6-4c9a-8de6-033dd7ccd983)
+![1](https://github.com/themrsami/Monkeytype-Autotyper-with-GUI/assets/91170768/15f18eb2-3516-4855-82d1-39682e22167e)
 
-![image](https://github.com/themrsami/Monkeytype-Autotyper-with-GUI/assets/91170768/0ae4da90-5fa1-4df7-be71-fbfc73813d61)
+![2](https://github.com/themrsami/Monkeytype-Autotyper-with-GUI/assets/91170768/48a5a38f-8990-4fcf-a520-5ef674c2ef7c)
 
-![image](https://github.com/themrsami/Monkeytype-Autotyper-with-GUI/assets/91170768/f2025267-609e-4c84-abe2-554e4174a077)
-
+![3](https://github.com/themrsami/Monkeytype-Autotyper-with-GUI/assets/91170768/d1b7ebd9-11a7-4d0c-9881-17943435ea3f)
 
 
 
